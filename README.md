@@ -23,9 +23,9 @@
       <img src="images/popup-events.png" width="240" alt="Utelity hiển thị sự kiện và trạng thái đăng ký">
     </td>
     <td align="center">
-      <a href="https://github.com/februus268/Utelity-Releases/releases/download/v0.2.2-beta/Utelity-huong-dan-cai-tren-Chrome.mp4"><img src="images/chrome-install-preview.png" width="420" alt="Xem video hướng dẫn cài Utelity trên Chrome"></a>
+      <a href="images/chrome-install-guide.gif"><img src="images/chrome-install-guide.gif" width="480" alt="Hướng dẫn cài Utelity trên Chrome, 21 giây"></a>
       <br>
-      <a href="https://github.com/februus268/Utelity-Releases/releases/download/v0.2.2-beta/Utelity-huong-dan-cai-tren-Chrome.mp4"><strong>▶ Video cài trên Chrome · 21 giây</strong></a>
+      <strong>Cài Utelity trên Chrome · 21 giây</strong>
     </td>
   </tr>
 </table>
