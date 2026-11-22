@@ -50,6 +50,12 @@
 
 Bản cài thủ công cần cập nhật thủ công. Khi có bản mới, tải ZIP mới, thay nội dung thư mục đã cài rồi bấm **Reload** trên trang quản lý tiện ích.
 
+## Gửi sự kiện cho Utelity
+
+Bạn phụ trách sự kiện hoặc minigame cho sinh viên HCM-UTE? Nếu đã có mã mời, hãy gửi link bài đăng Facebook công khai để Utelity xem xét đưa vào danh sách.
+
+[Gửi sự kiện](https://utelity-event-feed-dev.congquyennv123.workers.dev/submit-event) · [Liên hệ để xin mã mời](https://github.com/februus268/Utelity-Releases/issues/new)
+
 ## Góp ý
 
 Bạn gặp lỗi, thấy thiếu sự kiện hoặc có ý tưởng mới? [Gửi góp ý cho Utelity](https://github.com/februus268/Utelity-Releases/issues/new). Khi báo lỗi, hãy ghi tên trình duyệt, phiên bản Utelity và các bước gặp lỗi. Nếu thiếu hoặc sai sự kiện, hãy gửi kèm link thông báo gốc.
