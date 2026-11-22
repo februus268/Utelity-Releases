@@ -23,9 +23,9 @@
       <img src="images/popup-events.png" width="240" alt="Utelity hiển thị sự kiện và trạng thái đăng ký">
     </td>
     <td align="center">
-      <a href="images/chrome-install-guide.gif"><img src="images/chrome-install-guide.gif" width="480" alt="Hướng dẫn cài Utelity trên Chrome, 21 giây"></a>
+      <a href="images/chrome-install-guide.gif"><img src="images/chrome-install-guide.gif" width="480" alt="Hướng dẫn cài Utelity trên Chrome"></a>
       <br>
-      <strong>Cài Utelity trên Chrome · 21 giây</strong>
+      <strong>Cài Utelity trên Chrome</strong>
     </td>
   </tr>
 </table>
