@@ -54,7 +54,7 @@ Bản cài thủ công cần cập nhật thủ công. Khi có bản mới, tả
 
 Bạn phụ trách sự kiện hoặc minigame cho sinh viên HCM-UTE? Nếu đã có mã mời, hãy gửi link bài đăng Facebook công khai để Utelity xem xét đưa vào danh sách.
 
-[Gửi sự kiện](https://utelity-event-feed-dev.congquyennv123.workers.dev/submit-event) · [Liên hệ để xin mã mời](https://github.com/februus268/Utelity-Releases/issues/new)
+[Gửi sự kiện](https://utelity-event-feed-dev.congquyennv123.workers.dev/submit-event) · [Xin mã mời qua email](mailto:congquyennv123@gmail.com?subject=Utelity%20invite%20code)
 
 ## Góp ý
 
