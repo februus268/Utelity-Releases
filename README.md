@@ -2,11 +2,34 @@
   <img src="images/wordmark.png" width="180" alt="Logo Utelity">
 </p>
 
-# Utelity
+<h1 align="center">Utelity</h1>
 
-Utelity giúp sinh viên HCM-UTE tìm sự kiện sắp diễn ra, xem hạn đăng ký và mở thông báo gốc ngay từ trình duyệt.
+<p align="center"><strong>Theo dõi sự kiện HCM-UTE ngay từ trình duyệt.</strong></p>
 
-<img src="images/popup-events.png" width="300" alt="Danh sách sự kiện và bộ lọc đăng ký trong Utelity">
+<p align="center">
+  Tìm hoạt động sắp diễn ra, xem sự kiện nào còn mở đăng ký và truy cập thông báo, thể lệ hay biểu mẫu đăng ký từ một nơi.
+</p>
+
+<p align="center">
+  <a href="https://github.com/februus268/Utelity-Releases/releases/latest"><strong>Tải Utelity 0.2.2 Beta</strong></a>
+  ·
+  <a href="#cài-utelity-beta">Hướng dẫn cài đặt</a>
+</p>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/popup-events.png" width="240" alt="Utelity hiển thị sự kiện và trạng thái đăng ký">
+    </td>
+    <td align="center">
+      <a href="https://github.com/februus268/Utelity-Releases/releases/download/v0.2.2-beta/Utelity-huong-dan-cai-tren-Chrome.mp4"><img src="images/chrome-install-preview.png" width="420" alt="Xem video hướng dẫn cài Utelity trên Chrome"></a>
+      <br>
+      <a href="https://github.com/februus268/Utelity-Releases/releases/download/v0.2.2-beta/Utelity-huong-dan-cai-tren-Chrome.mp4"><strong>▶ Video cài trên Chrome · 21 giây</strong></a>
+    </td>
+  </tr>
+</table>
+</div>
 
 ## Cài Utelity Beta
 
