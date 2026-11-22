@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/februus268/Utelity-Releases/releases/latest"><strong>Tải Utelity 0.2.3 Beta</strong></a>
+  <a href="https://github.com/februus268/Utelity-Releases/releases/latest"><strong>Tải Utelity 0.2.4 Beta</strong></a>
   ·
   <a href="#cài-utelity-beta">Hướng dẫn cài đặt</a>
 </p>
@@ -33,7 +33,7 @@
 
 ## Cài Utelity Beta
 
-1. [Tải Utelity 0.2.3 Beta (.zip)](https://github.com/februus268/Utelity-Releases/releases/download/v0.2.3-beta/Utelity-0.2.3-beta.zip) rồi giải nén vào một thư mục bạn có thể giữ lại.
+1. [Tải Utelity 0.2.4 Beta (.zip)](https://github.com/februus268/Utelity-Releases/releases/download/v0.2.4-beta/Utelity-0.2.4-beta.zip) rồi giải nén vào một thư mục bạn có thể giữ lại.
 2. Mở trang quản lý tiện ích. Trên Edge, nhập `edge://extensions` vào thanh địa chỉ. Trên Chrome, nhập `chrome://extensions`. Với trình duyệt Chromium khác, mở trang quản lý tiện ích và kiểm tra xem có nút **Load unpacked** hay không.
 3. Bật **Developer mode**, chọn **Load unpacked** rồi mở thư mục đã giải nén chứa `manifest.json`.
 4. Mở Utelity từ menu **Extensions** trên thanh công cụ. Bạn có thể ghim tiện ích để mở nhanh hơn.
